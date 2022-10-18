@@ -1,0 +1,12 @@
+.mainnav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin-top: 40px;
+}
+
+.mainnav ul li {
+margin: 0 10px;
+font-weight: bold;
+}
